@@ -1,7 +1,5 @@
 <?php
 
-namespace App\Lib\Chatbot;
-
 use Exception;
 
 /**
